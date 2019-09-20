@@ -1,6 +1,6 @@
 public class Wallpaper {
     public static void main(String[] args) {
-        int roomPerimetr = 25;
+        double roomPerimetr = 25;
         double roomHight = 2.5;
         double rollWight = 0.8;
         int rollLength = 10;
