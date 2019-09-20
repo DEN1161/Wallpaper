@@ -1,8 +1,8 @@
 public class Wallpaper {
     public static void main(String[] args) {
-        double roomPerimetr = 25;
-        double roomHight = 2.5;
-        double rollWight = 0.8;
+        double roomPerimeter = 25;
+        double roomHeight = 2.5;
+        double rollWidth = 0.8;
         int rollLength = 10;
 
 //How many total panels do you need for gluing a room?
